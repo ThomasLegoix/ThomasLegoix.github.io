@@ -8,13 +8,13 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
+# Thomas LEGOIX
 Elève ingénieur en [préciser sa spécialité]
 
 
 Disponible XX mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[thomas.legoix[at]etu.unilasalle.fr](mailto:Prenom.Nom@xxx.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
