@@ -9,7 +9,7 @@ hero_image_ratio: is-1by1
 ---
 
 # Thomas LEGOIX
-Elève ingénieur en [préciser sa spécialité]
+Elève ingénieur en 1ère Année
 
 
 Disponible XX mois à partir de Date
