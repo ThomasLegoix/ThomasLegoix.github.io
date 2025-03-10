@@ -14,7 +14,7 @@ Elève ingénieur en [préciser sa spécialité]
 
 Disponible XX mois à partir de Date
 
-[thomas.legoix[at]etu.unilasalle.fr](mailto:Prenom.Nom@xxx.com)
+[thomas.legoix@etu.unilasalle.fr](thomas.legoix@etu.unilasalle.fr)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
