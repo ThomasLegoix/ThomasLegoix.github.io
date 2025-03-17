@@ -1,7 +1,7 @@
 ---
-title: Projet 1
-subtitle: Projet informatique
-description: Description du projet 1
+title: Trieur de Vis 
+subtitle: Projet impression 3D
+description: Trieur de vis M4
 layout: product
 image: https://via.placeholder.com/640x480
 ---
