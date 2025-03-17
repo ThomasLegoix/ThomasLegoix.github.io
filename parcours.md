@@ -18,8 +18,8 @@ Elève ingénieur en [préciser la spécialité]
 **DUT [préciser la spécialité]** - Université [préciser le lieu]
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac Général, Mathématiques, Physique Chimie, Amiens
 
 ## Expériences
 
@@ -31,10 +31,10 @@ _Réalisé en équipe de XX étudiants_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2025` **GoodYear, secteur activité, description site rejoint, taille, Amiens**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Stage – 
+* Stage ouvrier
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
