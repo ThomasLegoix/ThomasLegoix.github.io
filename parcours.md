@@ -14,21 +14,16 @@ download_cv: assets/docs/Template_CV.pdf
 Elève ingénieur en [préciser la spécialité]
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
 `2024`
 Bac Général, Mathématiques, Physique Chimie, Amiens
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2025` **Projet d’étude – préciser le thème du projet**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 2 étudiants_
+* Création d'un trieur de vis en 3D et avec du découpage laser
+* Création d'un jeu de l'awalé ( Code C )
 
 
 `2025` **GoodYear, secteur activité, description site rejoint, taille, Amiens**
@@ -44,6 +39,7 @@ _Intitulé du poste dans une équipe de XX membres_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
 ## Compétences
+
 
 Langues
 * LV1 à préciser : niveau à préciser (résultat d’examen)
@@ -65,3 +61,8 @@ Loisirs 1
 Loisirs 1
 * Description 
 * Description 
+
+
+
+
+
