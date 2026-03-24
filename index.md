@@ -9,14 +9,14 @@ hero_image_ratio: is-1by1
 ---
 
 # Thomas LEGOIX
-Elève ingénieur en 1ère Année
+Elève ingénieur en 2ème Année
 
 
 Disponible XX mois à partir de Date
 
 [thomas.legoix@etu.unilasalle.fr](thomas.legoix@etu.unilasalle.fr)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn]((https://www.linkedin.com/in/thomas-legoix-bb778a389))
 
 Permis B, voiture
 
