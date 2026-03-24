@@ -16,7 +16,7 @@ Disponible XX mois à partir de Date
 
 [thomas.legoix@etu.unilasalle.fr](thomas.legoix@etu.unilasalle.fr)
 
-[LinkedIn]((https://www.linkedin.com/in/thomas-legoix-bb778a389))
+[LinkedIn](https://www.linkedin.com/in/thomas-legoix-bb778a389)
 
 Permis B, voiture
 
