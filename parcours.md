@@ -3,15 +3,15 @@ layout: page
 title: Mon parcours
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
-download_cv: assets/docs/Template_CV.pdf
+download_cv: assets/docs/CV_LEGOIXThomas.pdf
 ---
 
 ## Formation 
 
-`2024 – 20XX`
+`2024 – 2029`
 **UniLaSalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
+Elève ingénieur en PAUC
 * Cours : préciser les cours en phase avec le poste visé
 
 `2024`
@@ -28,7 +28,7 @@ _Réalisé en équipe de 2 étudiants_
 
 `2025` **GoodYear, secteur activité, description site rejoint, taille, Amiens**
 
-_Stage – 
+_Stage – 1 mois  
 * Stage ouvrier
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
@@ -42,12 +42,13 @@ _Intitulé du poste dans une équipe de XX membres_
 
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* Anglais - B1 - 610 Points TOEIC
+* Allemand - A1+
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* Onshape
+* Kicad
+* FToptix (Rockwell)
 
 Autres
 * Autres diplômes ou permis spéciaux
