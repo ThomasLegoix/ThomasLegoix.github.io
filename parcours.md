@@ -31,10 +31,9 @@ _Stage – 1 mois
 * Dans le cadre de mon expérience sur le site industriel de Goodyear (Amiens), je suis intervenu sur la modernisation du système de pilotage d'une Centrale de Traitement d'Air (CTA). Ma mission a consisté à reprendre et analyser le code d'automatisme existant afin de pouvoir modéliser la nouvelle Interface Homme-Machine (Rockwell OptixPanel). Ce travail de modélisation, réalisé à partir du programme de base de la machine, a permis de lier fidèlement la logique de contrôle à la nouvelle supervision, rendant ainsi les données visuelles et directement exploitables pour les équipes de production et de maintenance. 
 
 
-`20XX` **Association, description de l’asso., taille**
+`2024 - 2026` **UniCom, Association de communication d'UniLaSalle**
 
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+* Création d'un escpage game dans l'école pour favoriser l'intégration des futurs étudiants voulant aller à UniLaSalle.
 
 ## Compétences
 
@@ -53,13 +52,12 @@ Autres
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+Bricolage 
+* Electricité
+* Menuiserie
+* Travail du Bois
+* Rénovation
 
-Loisirs 1
-* Description 
-* Description 
 
 
 
