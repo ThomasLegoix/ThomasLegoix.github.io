@@ -12,10 +12,9 @@ download_cv: assets/docs/CV_LEGOIXThomas.pdf
 **UniLaSalle Amiens**
 
 Elève ingénieur en PAUC
-* Cours : préciser les cours en phase avec le poste visé
 
 `2024`
-Bac Général, Mathématiques, Physique Chimie, Amiens
+Bac Général - Mathématiques, Physique Chimie - Lycée Sacré Coeur Amiens
 
 ## Expériences
 
@@ -26,12 +25,11 @@ _Réalisé en équipe de 2 étudiants_
 * Création d'un jeu de l'awalé ( Code C )
 
 
-`2025` **GoodYear, secteur activité, description site rejoint, taille, Amiens**
+`2025` **GoodYear, Production de Pneumatiques, Zone Industrielle Amiens**
 
-_Stage – 1 mois  
-* Stage ouvrier
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Stage – 1 mois 
+* Dans le cadre de mon expérience sur le site industriel de Goodyear (Amiens), je suis intervenu sur la modernisation du système de pilotage d'une Centrale de Traitement d'Air (CTA). Ma mission a consisté à reprendre et analyser le code d'automatisme existant afin de pouvoir modéliser la nouvelle Interface Homme-Machine (Rockwell OptixPanel). Ce travail de modélisation, réalisé à partir du programme de base de la machine, a permis de lier fidèlement la logique de contrôle à la nouvelle supervision, rendant ainsi les données visuelles et directement exploitables pour les équipes de production et de maintenance. 
+
 
 `20XX` **Association, description de l’asso., taille**
 
@@ -51,7 +49,7 @@ Informatique
 * FToptix (Rockwell)
 
 Autres
-* Autres diplômes ou permis spéciaux
+* 3ème Régional WorldSkills (électronique)
 
 ## Centres d’intérêt
 
