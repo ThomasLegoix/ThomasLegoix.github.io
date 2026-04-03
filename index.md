@@ -5,7 +5,7 @@ description: "Ceci est un exemple de CV que vous pouvez générer par vous-même
 menubar: menu_bar
 hero_image: assets/imgs/photo cv.jpg
 hero_image_alt: Ma photo
-hero_image_ratio: is-1by1
+hero_image_ratio: is-0.1by0.1
 ---
 
 # Thomas LEGOIX
