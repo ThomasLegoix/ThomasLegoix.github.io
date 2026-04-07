@@ -29,7 +29,7 @@ _Réalisé en équipe de 2 étudiants_
 _Stage – 1 mois 
 * Dans le cadre de mon expérience sur le site industriel de Goodyear (Amiens), je suis intervenu sur la modernisation du système de pilotage d'une Centrale de Traitement d'Air (CTA). Ma mission a consisté à reprendre et analyser le code d'automatisme existant afin de pouvoir modéliser la nouvelle Interface Homme-Machine (Rockwell OptixPanel). Ce travail de modélisation, réalisé à partir du programme de base de la machine, a permis de lier fidèlement la logique de contrôle à la nouvelle supervision, rendant ainsi les données visuelles et directement exploitables pour les équipes de production et de maintenance. 
 
-`2025-2026` **Projet d’étude -2ème Année**
+`2025-2026` **Projet d’étude - 2ème Année**
 * Création d'un jeu d'échec ( Code C )
 * Conception et programmation d'une machine de dessin automatisée
 * Programmation d'un robot 2 roues.
