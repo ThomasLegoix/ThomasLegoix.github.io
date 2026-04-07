@@ -19,7 +19,10 @@ $link: #ef2e31;
     font-size : 1em;
 }
 
-.hero_image{
-    border-radius: 100%;
-    border: solid white 20px;
+.hero_image {
+  width: 250px;           /* Ajuste la largeur (vous pouvez changer ce nombre) */
+  height: 250px;          /* Ajuste la hauteur (doit être égale à la largeur) */
+  object-fit: cover;      /* Magie ! Recadre l'image rectangulaire pour remplir le carré sans la déformer */
+  border-radius: 50%;     /* Rend l'image parfaitement ronde */
+  border: 20px solid white; /* Remet votre bordure blanche */
 }
