@@ -19,14 +19,19 @@ $link: #ef2e31;
     font-size : 1em;
 }
 
-/* Rend la photo de profil ronde dans la bannière principale */
-.hero-banner .image.is-1by1 img {
-  border-radius: 50%;
-  object-fit: cover;
+/* Désactive le format automatique du thème et impose une taille fixe centrée */
+.hero-banner .image.is-1by1 {
+  padding-top: 0 !important; /* Casse le calcul automatique du thème */
+  width: 250px !important;   /* Force la largeur désirée */
+  height: 250px !important;  /* Force la hauteur désirée */
+  margin: 0 auto !important; /* Centre l'image au milieu de la colonne */
 }
 
-/* Limite la taille de l'image et la centre dans sa colonne */
-.hero-banner .image.is-1by1 {
-  max-width: 100px; /* Vous pouvez modifier ce nombre selon vos goûts (ex: 200px, 300px) */
-  margin: 0 auto;   /* Permet de garder la photo bien centrée au lieu d'être collée à gauche */
+/* Rend l'image ronde à l'intérieur de notre nouvelle boîte de 250px */
+.hero-banner .image.is-1by1 img {
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  position: static !important; /* Annule un autre réglage du thème */
+  width: 100%;
+  height: 100%;
 }
