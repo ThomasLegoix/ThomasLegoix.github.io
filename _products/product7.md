@@ -1,6 +1,6 @@
 ---
-title: Projet 5
-subtitle: Projet multidisciplines
+title: Projet 7
+subtitle: Projet Electronique
 layout: product
 image: 
 ---
