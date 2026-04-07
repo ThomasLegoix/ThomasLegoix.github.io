@@ -13,7 +13,9 @@ download_cv: assets/docs/CV_LEGOIXThomas.pdf
 
 Elève ingénieur en PAUC
 
-`2024`
+`2021 – 2024`
+**Lycée Sacré-Coeur Amiens**
+
 Bac Général - Mathématiques, Physique Chimie - Lycée Sacré Coeur Amiens
 
 ## Expériences
