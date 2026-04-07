@@ -19,10 +19,8 @@ $link: #ef2e31;
     font-size : 1em;
 }
 
-.hero_image {
-  width: 250px;           /* Ajuste la largeur (vous pouvez changer ce nombre) */
-  height: 250px;          /* Ajuste la hauteur (doit être égale à la largeur) */
-  object-fit: cover;      /* Magie ! Recadre l'image rectangulaire pour remplir le carré sans la déformer */
-  border-radius: 50%;     /* Rend l'image parfaitement ronde */
-  border: 20px solid white; /* Remet votre bordure blanche */
+/* Rend la photo de profil ronde dans la bannière principale */
+.hero-banner .image.is-1by1 img {
+  border-radius: 50%;
+  object-fit: cover;
 }
