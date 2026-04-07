@@ -24,3 +24,9 @@ $link: #ef2e31;
   border-radius: 50%;
   object-fit: cover;
 }
+
+/* Limite la taille de l'image et la centre dans sa colonne */
+.hero-banner .image.is-1by1 {
+  max-width: 250px; /* Vous pouvez modifier ce nombre selon vos goûts (ex: 200px, 300px) */
+  margin: 0 auto;   /* Permet de garder la photo bien centrée au lieu d'être collée à gauche */
+}
