@@ -2,7 +2,7 @@
 title: Projet 5
 subtitle: Projet multidisciplines
 layout: product
-image: https://via.placeholder.com/640x480
+image: /assets/imgs/machinedessin.png
 ---
 
 
